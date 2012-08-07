@@ -1,0 +1,71 @@
+name = realtor
+core = 7.x
+description =  OIP Realtor distribution
+
+; Core
+dependencies[] = book
+dependencies[] = contact
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+
+; Contrib
+dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = boxes
+dependencies[] = coder
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = entityreference
+dependencies[] = eva
+dependencies[] = features
+dependencies[] = image
+dependencies[] = libraries
+dependencies[] = node_reference
+dependencies[] = nodereference_url
+dependencies[] = markdown
+dependencies[] = openid
+dependencies[] = openidadmin
+dependencies[] = rules
+dependencies[] = smtp
+dependencies[] = strongarm
+dependencies[] = views
+dependencies[] = views_php
+dependencies[] = views_ui
+dependencies[] = views_fluid_grid
+dependencies[] = views_slideshow
+dependencies[] = views_slideshow_cycle
+
+; Custom Features (levelten)
+
+dependencies[] = seotools
+dependencies[] = chart
+dependencies[] = socialmedia
+dependencies[] = widgets
+
+; OIP features
+dependencies[] = metatags_quick
+dependencies[] = oip_listing
