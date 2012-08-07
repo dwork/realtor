@@ -20,7 +20,7 @@ function oip_profile_setup() {
         variable_set('smtp_username','crxymail');
         variable_set('smtp_password','crxy010#');
         variable_set('smtp_port','587');
-        variable_set('smtp_host','smtp.oip.net');
+        variable_set('smtp_host','smtp.earthclick.net');
         variable_set('smtp_fromname','OIP');
         variable_set('smtp_from','dwork@oip.net');
 
