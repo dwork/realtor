@@ -34,6 +34,7 @@ dependencies[] = admin
 dependencies[] = admin_menu
 dependencies[] = boxes
 dependencies[] = coder
+dependencies[] = ckeditor
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = ctools

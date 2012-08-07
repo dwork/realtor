@@ -19,7 +19,7 @@ MODIFICATIONS TO STANDARD
  *
  * @see system_install()
  */
-function oip_install() {
+function realtor_install() {
   // Add text formats.
   $filtered_html_format = array(
     'format' => 'filtered_html',
