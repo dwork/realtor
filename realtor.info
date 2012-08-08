@@ -70,3 +70,4 @@ dependencies[] = widgets
 ; OIP features
 dependencies[] = metatags_quick
 dependencies[] = oip_listing
+dependencies[] = realtor_policies

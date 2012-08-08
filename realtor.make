@@ -115,6 +115,12 @@ projects[oip_listing][subdir] = "contrib"
 projects[oip_listing][type] = "module"
 projects[oip_listing][version] = "1.0"
 
+; Realtor Policies (disclosure)
+projects[realtor_policies][download][type] = "git"
+projects[realtor_policies][download][url] = "https://github.com/dwork/realtor_policies.git"
+projects[realtor_policies][subdir] = "contrib"
+projects[realtor_policies][type] = "module"
+
 ; Image Gallery (Colby's)
 projects[image_gallery][download][type] = "git"
 projects[image_gallery][download][url] = "https://github.com/dwork/image_gallery.git"
