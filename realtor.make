@@ -105,6 +105,9 @@ projects[libraries][subdir] = "contrib"
 projects[metatags_quick][version] = "2.5"
 projects[metatags_quick][subdir] = "contrib"
 
+projects[noggin][version] = "1.0"
+projects[noggin][subdir] = "contrib"
+
 projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 

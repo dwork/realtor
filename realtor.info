@@ -50,6 +50,7 @@ dependencies[] = libraries
 dependencies[] = node_reference
 dependencies[] = nodereference_url
 dependencies[] = markdown
+dependencies[] = noggin
 dependencies[] = openid
 dependencies[] = openidadmin
 dependencies[] = rules
