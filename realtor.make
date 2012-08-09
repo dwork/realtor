@@ -130,6 +130,13 @@ projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.g
 projects[realtor_user][subdir] = "contrib"
 projects[realtor_user][type] = "module"
 
+; Mortgage Calculator
+projects[mortgage_calculator][download][type] = "git"
+projects[mortgage_calculator][download][url] = "https://github.com/dwork/mortgage_calculator.git"
+projects[mortgage_calculator][subdir] = "contrib"
+projects[mortgage_calculator][type] = "module"
+
+
 ; Image Gallery (Colby's)
 projects[image_gallery][download][type] = "git"
 projects[image_gallery][download][url] = "https://github.com/dwork/image_gallery.git"
