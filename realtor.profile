@@ -53,7 +53,7 @@ function oip_profile_setup() {
         oip_create_taxonomy_term('SRES','Seniors Real Estate Specialist®, SRES®','designations');
 
         // Property Type
- //       oip_create_taxonomy_term('Residential','Residential or Farm/Ranch','property_type');
+        oip_create_taxonomy_term('Residential','Residential or Farm/Ranch','property_type');
  //       oip_create_taxonomy_term('MultiFamily','MultiFamily - Duplex, Apartment, etc.','property_type');
 //        oip_create_taxonomy_term('Lots and Land','Lots, land, acreage','property_type');
 //        oip_create_taxonomy_term('Comm/Industrial','Commercial and industrial property','property_type');
