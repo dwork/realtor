@@ -50,6 +50,7 @@ dependencies[] = nodereference_url
 dependencies[] = markdown
 dependencies[] = openid
 dependencies[] = openidadmin
+dependencies[] = cck_phone
 dependencies[] = rules
 dependencies[] = smtp
 dependencies[] = strongarm

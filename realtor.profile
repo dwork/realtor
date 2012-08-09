@@ -61,6 +61,9 @@ function oip_profile_setup() {
         oip_create_taxonomy_term('Rental','Rental Property','property_type');
 
         // Phone Type
+        oip_create_taxonomy_term('Office', 'Office Phone', 'phone_types');
+        oip_create_taxonomy_term('Direct', 'Direct Phone', 'phone_types');
+        oip_create_taxonomy_term('Home', 'Home Phone', 'phone_types');
         oip_create_taxonomy_term('Phone', 'Phone', 'phone_types');
         oip_create_taxonomy_term('Cell','Cell/Mobile', 'phone_types');
         oip_create_taxonomy_term('Fax','Faxsimile', 'phone_types');
