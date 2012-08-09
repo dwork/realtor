@@ -121,6 +121,12 @@ projects[realtor_policies][download][url] = "https://github.com/dwork/realtor_po
 projects[realtor_policies][subdir] = "contrib"
 projects[realtor_policies][type] = "module"
 
+; Realtor Users (fields and forms)
+projects[realtor_user][download][type] = "git"
+projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.git"
+projects[realtor_user][subdir] = "contrib"
+projects[realtor_user][type] = "module"
+
 ; Image Gallery (Colby's)
 projects[image_gallery][download][type] = "git"
 projects[image_gallery][download][url] = "https://github.com/dwork/image_gallery.git"
