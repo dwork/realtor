@@ -61,6 +61,7 @@ dependencies[] = views_ui
 dependencies[] = views_fluid_grid
 dependencies[] = views_slideshow
 dependencies[] = views_slideshow_cycle
+dependencies[] = webform
 
 ; Custom Features (levelten)
 

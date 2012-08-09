@@ -140,6 +140,9 @@ projects[token][subdir] = "contrib"
 projects[views_php][version] = "1.x-dev"
 projects[views_php][subdir] = "contrib"
 
+projects[webform][version] = "3.18"
+projects[webform][subdir] = "contrib"
+
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
