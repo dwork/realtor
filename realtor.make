@@ -112,22 +112,22 @@ projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 
 ; Listing and Open House feature (content type)
-;projects[oip_listing][download][type] = "git"
-;projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git"
-;projects[oip_listing][subdir] = "contrib"
-;projects[oip_listing][type] = "module"
+projects[oip_listing][download][type] = "git"
+projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git"
+projects[oip_listing][subdir] = "contrib"
+projects[oip_listing][type] = "module"
 
 ; Realtor Policies (disclosure)
-;projects[realtor_policies][download][type] = "git"
-;projects[realtor_policies][download][url] = "https://github.com/dwork/realtor_policies.git"
-;projects[realtor_policies][subdir] = "contrib"
-;projects[realtor_policies][type] = "module"
+projects[realtor_policies][download][type] = "git"
+projects[realtor_policies][download][url] = "https://github.com/dwork/realtor_policies.git"
+projects[realtor_policies][subdir] = "contrib"
+projects[realtor_policies][type] = "module"
 
 ; Realtor Users (fields and forms)
-;projects[realtor_user][download][type] = "git"
-;projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.git"
-;projects[realtor_user][subdir] = "contrib"
-;projects[realtor_user][type] = "module"
+projects[realtor_user][download][type] = "git"
+projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.git"
+projects[realtor_user][subdir] = "contrib"
+projects[realtor_user][type] = "module"
 
 ; Image Gallery (Colby's)
 projects[image_gallery][download][type] = "git"
