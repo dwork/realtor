@@ -76,4 +76,3 @@ dependencies[] = metatags_quick
 dependencies[] = oip_listing
 dependencies[] = realtor_policies
 dependencies[] = realtor_user
-dependencies[] = mortgage_calculator
