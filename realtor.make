@@ -112,11 +112,10 @@ projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 
 ; Listing and Open House feature (content type)
-projects[oip_listing][download][type] = "git"
-projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git"
-projects[oip_listing][subdir] = "contrib"
-projects[oip_listing][type] = "module"
-projects[oip_listing][version] = "1.0"
+;projects[oip_listing][download][type] = "git"
+;projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git"
+;projects[oip_listing][subdir] = "contrib"
+;projects[oip_listing][type] = "module"
 
 ; Realtor Policies (disclosure)
 ;projects[realtor_policies][download][type] = "git"
