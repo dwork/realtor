@@ -32,6 +32,7 @@ dependencies[] = rdf
 ; Contrib
 dependencies[] = admin
 dependencies[] = admin_menu
+dependencies[] = cck_phone
 dependencies[] = boxes
 dependencies[] = coder
 dependencies[] = ckeditor
@@ -50,7 +51,8 @@ dependencies[] = nodereference_url
 dependencies[] = markdown
 dependencies[] = openid
 dependencies[] = openidadmin
-dependencies[] = cck_phone
+dependencies[] = captcha
+dependencies[] = recaptcha
 dependencies[] = rules
 dependencies[] = smtp
 dependencies[] = strongarm
