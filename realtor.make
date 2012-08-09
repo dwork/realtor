@@ -108,12 +108,6 @@ projects[metatags_quick][subdir] = "contrib"
 projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 
-projects[recaptcha][version] = "1.7"
-projects[recaptcha][subdir] = "contrib"
-
-projects[captcha][version] = "1.0-beta2"
-projects[captcha][subdir] = "contrib"
-
 ; Listing and Open House feature (content type)
 projects[oip_listing][download][type] = "git"
 projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git"
