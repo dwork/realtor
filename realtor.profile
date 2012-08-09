@@ -27,6 +27,7 @@ function oip_profile_setup() {
        // Create vocabularies
         oip_create_taxonomy('Designations','designations','Realtor Designations','Enter a  valid Realtor Designation');
         oip_create_taxonomy('Property Type','property_type','Type of Property','Enter a valid Property type');
+        oip_create_taxonomy('Licensed (State)','licensed_state_','Licensed State for Realtor','Enter a valid state');
         oip_create_taxonomy('Phone Type','phone_types','Phone/Message types','Enter a valid Phone or Message category');
 
         // Real Estate designations
@@ -60,6 +61,10 @@ function oip_profile_setup() {
         oip_create_taxonomy_term('Commercial Lease','Commercial Lease or Rental','property_type');
         oip_create_taxonomy_term('Rental','Rental Property','property_type');
 
+	// Licensed State
+	oip_create_taxonomy_term('Oregon','Oregon','licensed_state_');
+	oip_create_taxonomy_term('Washington','Washington','licensed_state_');
+	
         // Phone Type
         oip_create_taxonomy_term('Office', 'Office Phone', 'phone_types');
         oip_create_taxonomy_term('Direct', 'Direct Phone', 'phone_types');
