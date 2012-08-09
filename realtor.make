@@ -125,10 +125,10 @@ projects[oip_listing][version] = "1.0"
 ;projects[realtor_policies][type] = "module"
 
 ; Realtor Users (fields and forms)
-projects[realtor_user][download][type] = "git"
-projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.git"
-projects[realtor_user][subdir] = "contrib"
-projects[realtor_user][type] = "module"
+;projects[realtor_user][download][type] = "git"
+;projects[realtor_user][download][url] = "https://github.com/dwork/realtor_user.git"
+;projects[realtor_user][subdir] = "contrib"
+;projects[realtor_user][type] = "module"
 
 ; Image Gallery (Colby's)
 projects[image_gallery][download][type] = "git"
