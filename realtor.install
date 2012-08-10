@@ -276,7 +276,7 @@ function realtor_install() {
   // DCW Change from std defaults 1024x1024 & 800
   variable_set('user_pictures', '1');
   variable_set('user_picture_dimensions', '150x150');
-  variable_set('user_picture_file_size', '150');
+  variable_set('user_picture_file_size', '150 KB');
   variable_set('user_picture_style', 'thumbnail');
 
   // Allow visitor account creation with administrative approval.
