@@ -117,6 +117,12 @@ projects[oip_listing][download][url] = "https://github.com/dwork/oip_listing.git
 projects[oip_listing][subdir] = "contrib"
 projects[oip_listing][type] = "module"
 
+; RETS BSF interface
+projects[rets_bsf][download][type] = "git"
+projects[rets_bsf][download][url] = "https://github.com/dwork/rets_bsf.git"
+projects[rets_bsf][subdir] = "contrib"
+projects[rets_bsf][type] = "module"
+
 ; Realtor Policies (disclosure)
 projects[realtor_policies][download][type] = "git"
 projects[realtor_policies][download][url] = "https://github.com/dwork/realtor_policies.git"
