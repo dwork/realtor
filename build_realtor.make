@@ -2,7 +2,7 @@ core = 7.x
 api = 2
 
 projects[drupal][type] = core
-projects[drupal][version] = "7.14"
+projects[drupal][version] = "7.15"
 
 ;------------------------------------------------------------------------------------------
 ; Include "realtor" git
